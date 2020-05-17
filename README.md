@@ -6,5 +6,5 @@ This Glue job provides the following:
 * Converts the Dynamic Frame into Dataframe
 * Renames columns with spaces and unsupported characters 
 * Creates partitioning columns
-* Repartition files by days and saves data in bucket/year=/month=/ partitioning scheme.
+* Repartition files by days and saves data in S3 bucket /year=/month=/ partitioning scheme.
 * Stores the partitioned files in parquet files
