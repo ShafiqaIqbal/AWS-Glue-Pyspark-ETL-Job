@@ -9,5 +9,4 @@ This Glue job provides the following:
 * Repartition files by days and saves data in S3 bucket /year=/month=/ partitioning scheme.
 * Stores the partitioned files in parquet files
 
-Do support my work if you like it.
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U41Q7VT)
+
